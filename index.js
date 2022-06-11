@@ -8,11 +8,11 @@ app.use(cors());
 const anggota = [
     {
         username: "kanglerian",
-        email: "kanglerian@gmail.com"
+        email: "kanglerian@github.com"
     },
     {
         username: "sopyan",
-        email: "sopyansauri@gmail.com"
+        email: "sopyansauri@github.com"
     }
 ];
 
